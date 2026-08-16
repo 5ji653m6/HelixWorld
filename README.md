@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.jpg" alt="HelixWorld 1.0" width="100%">
+</p>
+
 # HelixWorld
 
 **HelixWorld 1.0** is a real-time interactive audio-visual world model from [Noiz AI](https://noiz.ai), built with researchers from HKUST, Tsinghua, CMU, and Google DeepMind.
