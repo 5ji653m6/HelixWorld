@@ -40,13 +40,12 @@ Against current interactive world models (Genie 3, WorldPlay, LingBot-World, and
 | Item | Status |
 | --- | --- |
 | Public announcement | Done |
-| Technical report / paper | Coming soon |
-| Model weights | Coming soon |
-| Inference code | Coming soon |
-| Training code | Coming soon |
-| Checkpoints on Hugging Face | Coming soon |
-| Interactive demo | Coming soon |
-| Evaluation suite (spatial audio + AV sync) | Coming soon |
+| Technical report / paper | [Coming soon](https://github.com/NoizAI/HelixWorld/issues/2) |
+| Model weights + inference code | [Coming soon](https://github.com/NoizAI/HelixWorld/issues/1) |
+| Training code | Coming soon — comment on [#1](https://github.com/NoizAI/HelixWorld/issues/1) if you need it in the first drop |
+| Checkpoints on Hugging Face | [Coming soon](https://github.com/NoizAI/HelixWorld/issues/4) |
+| Interactive demo | [Coming soon](https://github.com/NoizAI/HelixWorld/issues/3) |
+| Evaluation suite (spatial audio + AV sync) | [Feature request](https://github.com/NoizAI/HelixWorld/issues/9) |
 | Dataset release | Not planned for 1.0 — [request it](https://github.com/NoizAI/HelixWorld/issues/new?template=feature_request.yml) |
 
 Watch this repository, or subscribe to [releases](https://github.com/NoizAI/HelixWorld/releases).
@@ -114,10 +113,11 @@ HelixWorld 1.0 is the first step: real-time audio-video interaction. These are t
 
 | Direction | What we mean | Tracker |
 | --- | --- | --- |
-| Multi-agent | Characters with identity, goals, and memory; stories that emerge from contact, not a fixed script | [Feature request](https://github.com/NoizAI/HelixWorld/issues/new?template=feature_request.yml) |
-| Multi-person presence | Several people and agents in one space; who spoke, to whom, from where | [Feature request](https://github.com/NoizAI/HelixWorld/issues/new?template=feature_request.yml) |
-| Long-horizon consistency | Hours or days: identity, spatial state, and cause-effect have to persist | [Feature request](https://github.com/NoizAI/HelixWorld/issues/new?template=feature_request.yml) |
-| Autonomous evolution | The world keeps running with no new prompt and nobody in it | [Feature request](https://github.com/NoizAI/HelixWorld/issues/new?template=feature_request.yml) |
+| Multi-agent | Characters with identity, goals, and memory; stories that emerge from contact, not a fixed script | [#5](https://github.com/NoizAI/HelixWorld/issues/5) |
+| Multi-person presence | Several people and agents in one space; who spoke, to whom, from where | [#6](https://github.com/NoizAI/HelixWorld/issues/6) |
+| Long-horizon consistency | Hours or days: identity, spatial state, and cause-effect have to persist | [#7](https://github.com/NoizAI/HelixWorld/issues/7) |
+| Autonomous evolution | The world keeps running with no new prompt and nobody in it | [#8](https://github.com/NoizAI/HelixWorld/issues/8) |
+| Engine / product integrations | Games, interactive film, education | [#10](https://github.com/NoizAI/HelixWorld/issues/10) |
 
 Downstream we care about: games, interactive film, education. If you have a concrete integration in mind, open a request and say so.
 

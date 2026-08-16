@@ -14,16 +14,15 @@ Please search existing issues first. Duplicate requests will be closed with a po
 
 ## Feature requests we already expect
 
-These are on our internal list. Opening (or commenting on) an issue still helps: it tells us who needs the work and for which product.
+These are already filed. Comment there instead of opening a duplicate.
 
-- Multi-agent worlds (identity, goals, memory)
-- Multi-person presence (who spoke, to whom, from where)
-- Long-horizon consistency (hours or days, not minutes)
-- Autonomous world evolution with no user in the loop
-- Spatial audio metrics and AV sync benchmarks
-- Game / interactive-film / education integrations
-- Training-code release beyond inference
-- Dataset or data-pipeline release
+- Multi-agent worlds — [#5](https://github.com/NoizAI/HelixWorld/issues/5)
+- Multi-person presence — [#6](https://github.com/NoizAI/HelixWorld/issues/6)
+- Long-horizon consistency — [#7](https://github.com/NoizAI/HelixWorld/issues/7)
+- Autonomous world evolution — [#8](https://github.com/NoizAI/HelixWorld/issues/8)
+- Spatial audio metrics and AV sync benchmarks — [#9](https://github.com/NoizAI/HelixWorld/issues/9)
+- Game / interactive-film / education integrations — [#10](https://github.com/NoizAI/HelixWorld/issues/10)
+- Weights, inference, paper, demo — [#1](https://github.com/NoizAI/HelixWorld/issues/1)–[#4](https://github.com/NoizAI/HelixWorld/issues/4)
 
 ## After the code drop
 
