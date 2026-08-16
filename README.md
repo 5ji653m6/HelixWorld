@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="HelixWorld 1.0" width="100%">
+  <img src="assets/banner.jpg" alt="HelixWorld 1.0 — Sound and vision, born together" width="100%">
 </p>
 
 # HelixWorld
