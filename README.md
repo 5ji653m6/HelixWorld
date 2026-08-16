@@ -6,13 +6,14 @@ Give it an image and a prompt. The world keeps generating as you move. Walk forw
 
 > **Status:** this repository is a public placeholder. Model weights, inference code, and the technical report will be released in the coming weeks. Open a [feature request](https://github.com/NoizAI/HelixWorld/issues/new?template=feature_request.yml) if you want something on the roadmap.
 
-[![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-Apache%202.0-green.svg)](LICENSE)
-[![Weights](https://img.shields.io/badge/weights-Coming%20Soon-lightgrey.svg)](#release-status)
-[![Code](https://img.shields.io/badge/code-Coming%20Soon-lightgrey.svg)](#release-status)
-[![Paper](https://img.shields.io/badge/paper-Coming%20Soon-lightgrey.svg)](#release-status)
-[![Demo](https://img.shields.io/badge/demo-Coming%20Soon-lightgrey.svg)](#release-status)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Coming%20Soon-lightgrey.svg)](#release-status)
+<p align="center">
+  <a href="https://github.com/NoizAI/HelixWorld/issues/2"><img src="https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b.svg?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a>
+  <a href="https://github.com/NoizAI/HelixWorld/issues/4"><img src="https://img.shields.io/badge/Hugging%20Face-Coming%20Soon-ffcc4d.svg?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
+  <a href="https://github.com/NoizAI/HelixWorld/issues/4"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Model-Coming%20Soon-yellow.svg?style=flat-square" alt="Hugging Face Model"></a>
+  <a href="https://github.com/NoizAI/HelixWorld/issues/3"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Space-Coming%20Soon-yellow.svg?style=flat-square" alt="Hugging Face Space"></a>
+  <a href="https://github.com/NoizAI/HelixWorld/issues/3"><img src="https://img.shields.io/badge/Project%20Page-Coming%20Soon-blue.svg?style=flat-square&logo=github&logoColor=white" alt="Project Page"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-green.svg?style=flat-square" alt="License"></a>
+</p>
 
 ## Why audio belongs in the world
 
